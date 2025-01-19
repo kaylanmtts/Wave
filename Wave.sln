@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wave.API", "Wave.API\Wave.API.csproj", "{56FC3E8F-E777-4F4A-8912-82A8A38A6AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wave.Infra", "Wave.Infra\Wave.Infra.csproj", "{8064ABED-7A12-46FF-92B2-85E390D8BF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wave.Domain", "Wave.Domain\Wave.Domain.csproj", "{C321888B-B906-4BDF-8DA0-7C141E40E293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FC3E8F-E777-4F4A-8912-82A8A38A6AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FC3E8F-E777-4F4A-8912-82A8A38A6AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FC3E8F-E777-4F4A-8912-82A8A38A6AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FC3E8F-E777-4F4A-8912-82A8A38A6AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8064ABED-7A12-46FF-92B2-85E390D8BF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8064ABED-7A12-46FF-92B2-85E390D8BF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8064ABED-7A12-46FF-92B2-85E390D8BF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8064ABED-7A12-46FF-92B2-85E390D8BF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C321888B-B906-4BDF-8DA0-7C141E40E293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C321888B-B906-4BDF-8DA0-7C141E40E293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C321888B-B906-4BDF-8DA0-7C141E40E293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C321888B-B906-4BDF-8DA0-7C141E40E293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
